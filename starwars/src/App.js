@@ -44,6 +44,7 @@ class App extends Component {
                 height={char.height}
                 mass={char.mass}
                 skin_color={char.skin_color}
+                starships={char.starships}
           />
           ))}
       </div>
